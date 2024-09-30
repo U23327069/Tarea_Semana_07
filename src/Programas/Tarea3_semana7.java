@@ -16,7 +16,7 @@ public class Tarea3_semana7 {
             }
         } while (tiempo != 0);
         if (corredores > 0) {
-            //Salida de datos
+            //Salida de datos finales
             System.out.println("Número de corredores registrados: " + corredores);
             System.out.println("Mejor tiempo registrado: " + mejorTiempo + " segundos");
         } else {
